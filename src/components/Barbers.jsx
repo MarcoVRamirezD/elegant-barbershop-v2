@@ -6,7 +6,7 @@ export default function Barbers() {
   const barbers = [
     { name: "Arthur Pendelton", role: "Master Barber", img: "https://images.unsplash.com/photo-1618077360395-f3068be8e001?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" },
     { name: "Julian Thorne", role: "Senior Barber", img: "https://images.unsplash.com/photo-1599566150163-29194dcaad36?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" },
-    { name: "Mateo Silva", role: "Style Specialist", img: "https://images.unsplash.com/photo-1622253692010-333f2da6031d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" }
+    { name: "Mateo Silva", role: "Style Specialist", img: "/mateo-silva.png" }
   ];
 
   return (
